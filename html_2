@@ -1,0 +1,78 @@
+<h1>PERVİN SÜRGÜÇOĞLU</h1>
+<h2>Hakkımda</h2>
+
+<p>Merhaba Ben Pervin Sürgüçoğlu. Kastamonu'da yaşıyorum. Bilişim Teknolojileri Öğretmeniyim. T3 Vakfı Kastamonu İl Sorumlusu olarak çalışıyorum. Kitap okumayı seven birisiyim. Her akşam 30 sayfa kitap okuyorm. Yeni şeyler öğrenmeyi seven birisiyim. Kendimi yazılım alanında geliştirmek için bir çok kursa aktfi katılım sağlamaya çalışıyorum. Yüksek lisansımı derin öğrenme üzerine yaptığım için Python diline daha çok ilgiyiim.
+
+</p>
+
+<h2>İlgi Alanlarım</h2>
+<li>1.Film
+    <ul type="square">
+        <li>The Big Lebowski</li>
+        <li>The Blues Brothers</li>
+        <li>Neredesin Firuze</li>
+    </ul>
+</li>
+
+
+
+<li>2.Dizi
+    <ul type="square">
+        <li>Star Trek</li>
+        <li>Battlestar Galactica</li>
+        <li>The IT Crowd</li>
+    </ul>
+</li>
+
+<li>
+3.Kitap
+    <ul type="square">
+        <li> Yerdeniz</li>
+        <li>Dune</li>
+        <li>Androidler Elektrikli Koyun Düşler Mi?</li>
+    </ul>
+</li>
+
+
+<h2>Sevdiğim Diziler</h2>
+<h2>The Balcklist</h2>
+
+<img src=
+"https://m.media-amazon.com/images/I/916SjwbGEIL._AC_UF894,1000_QL80_.jpg"
+alt="resim yok ise gösterilecek yazı"  />
+
+<p>THE BLACLİST</p>
+p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit at, velit dolores et ipsam quod. Provident, iusto ducimus voluptatibus et blanditiis laboriosam. Veritatis reiciendis, soluta doloremque unde quo cumque ea.</p> 
+
+<ul>
+    <li>Lorem.</li>
+    <li>Nisi!</li>
+    <li>Tenetur.</li>
+    <p>
+        Lorem ipsum dolor sit.
+        <h3>Lorem.</h3>
+    </p>
+    <p>
+        Placeat debitis maiores aliquid.
+        <h3>At?</h3>
+    </p>
+</ul>
+
+
+<ul>
+    <li>Lorem.</li>
+    <li>Quas</li>
+    <li>Doloremque!</li>
+</ul>
+<p>Lorem ipsum dolor sit.</p>
+<p>Accusamus tenetur ipsum nihil!</p>
+<h3>Lorem.</h3>
+
+<footer>
+    <br>
+    <h4>Kaynaklar</h4   >
+    <ul>
+        <li>https://kodluyoruz.org/</li>
+       
+    </ul>
+</footer>
